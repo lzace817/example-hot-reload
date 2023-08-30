@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 set -x
 
 export LD_LIBRARY_PATH=./build
