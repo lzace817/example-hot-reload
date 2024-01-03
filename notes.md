@@ -1,0 +1,4 @@
+# compiler switches
+```
+-Wstrict-prototypes
+```
